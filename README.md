@@ -11,3 +11,6 @@ Thank you for your guidance and support.
 
 Best regards,
 Tamjim Akter Anisa Payel
+
+
+Lab Resources : https://drive.google.com/drive/folders/1DnF8_teHpzrHNvSspl-W5ooxNyxvUU2t?usp=sharing
