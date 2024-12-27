@@ -13,4 +13,5 @@ Best regards,
 Tamjim Akter Anisa Payel
 
 
-Lab Resources : https://drive.google.com/drive/folders/1DnF8_teHpzrHNvSspl-W5ooxNyxvUU2t?usp=sharing
+Given Lab Resources : https://drive.google.com/drive/folders/1DnF8_teHpzrHNvSspl-W5ooxNyxvUU2t?usp=sharing
+I Used as Resources Like : https://drive.google.com/drive/folders/17_CDtmkt9Z_--wI89yxogUq24WZowMwc
